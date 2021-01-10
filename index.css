@@ -1,0 +1,43 @@
+header{
+  background-color: #8991d6cc;
+  height: 60px;
+}
+.titulo{
+  font-size: 16pt;
+  color: #333fff;
+  font-weight: bold;
+}
+img{
+  height: 60px;
+  float: left;
+}
+nav{
+  width: 100%;
+  background-color: #939393;
+}
+a{
+  color: white;
+  font-size: 13pt;
+  padding:70px;
+}
+h1{
+  text-align: center;
+}
+section{
+  display: inline;
+}
+.primero{
+  width: 48%;
+    float: right;
+}
+.segundo{
+  width: 48%;
+}
+footer{
+  width: 100%;
+  background-color: #939393;
+}
+li{
+  padding: 10px;
+  list-style:none; 
+}
